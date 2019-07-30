@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html> 
+<head>
+    <link rel="stylesheet" href="aboutmestyles.css">
+    <script src="aboutme.js"></script></script>
+</head>
+    
+<body>
+    <h1>Hi, my name is Darlenis.</h1>
+<img src= "http://www.criticalcommons.org/Members/AMST125/clips/greys-anatomy-promotional-photo/thumbnailImage" width="200" onmouseover="makeImageBig(this)" onmouseout="makeImageOriginalSize(this)"
+<button id="brags" onclick="showHideSection('Cdrama')">SHOW FUN FACTS ABOUT DARLENIS</button>
+<br><br>
+<div id="Cdrama">
+<ol>
+   
+<li>I am 16 years old!</li>
+<li>The only girl out of 5 brothers plus the oldest!</li>
+<li>I would love to have a career that helps out people in positives ways. (Doctor etc.)</li>
+<img src= "https://66.media.tumblr.com/6b8a028d58488d54d2eea87a50b087c0/tumblr_pu6ku8mkMT1yra9jpo2_400.png" width="200" onmouseover="makeImageBig(this)" onmouseout="makeImageOriginalSize(this)">  
+<ol>
+</div>
+</body>
+    
+</html>
